@@ -9,7 +9,7 @@ public class Disply1 {
 
 	public void add(int a, int b)
 	{
-		this.a = a;
+		//this.a = a;
 		System.out.println("addition is " +a +" and " +b +"is " +(a+b));
 	}
 	public static void main(String[] args) {
